@@ -1,4 +1,4 @@
-Chicken disease classification reproducibility package
+**Chicken disease classification reproducibility package**
 This package contains the article, source code, model checkpoints, manifests, metrics, figures, and XAI outputs for the 30-epoch experiment described in the manuscript.
 
 Main files
